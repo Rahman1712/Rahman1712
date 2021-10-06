@@ -87,9 +87,16 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="center">
-    <a href="https://linkedin.com/in/rahman1712" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahman1712" height="30" width="40" />
+    <a href="mailto:abdulrahmankm1712@gmail.com" target="blank">
+        <img align="center" src="logo/gmail.svg" alt="rahman1712" height="40" width="40" />
     </a>
+    &nbsp; &nbsp;
+    <a href="https://linkedin.com/in/rahman1712" target="blank">
+        <img align="center" src="logo/linkedin.svg" alt="rahman1712" height="40" width="40" />
+    </a>
+<!--     <a href="https://linkedin.com/in/rahman1712" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="rahman1712" height="30" width="40" />
+    </a> -->
 </p>
         <p>&nbsp; &nbsp;</p> 
         <p>&nbsp; &nbsp;</p> 
