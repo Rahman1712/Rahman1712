@@ -1,30 +1,25 @@
-<div class="divb">
-<h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,100:FFFFD9&height=150&section=header&text=Hai%20Guys&fontSize=30&reversal=true&animation=blinking&fontColor=ffffff&fontAlign=90&fontAlignY=20" />
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=rahman1712&label=Profile%20views&color=0e75b6&style=flat" alt="rahman1712" /> 
-</p>
+<h1 align="left">Hi 👋, I'm Abdul Rahman</h1>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rahman1712" alt="rahman1712" />
-    </a> 
-</p>
+<h3 align="left"> A passionate full stack developer from India</h3>
+
+- 🔭 I’m currently working on **J2EE Projects**
+
+- 🌱 I’m currently learning **Node JS , MongoDB , Blender**
+
+- 💬 Ask me about **java , javaFX , Springboot**
 
 - 📫 How to reach me **abdulrahmankm1712@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/rahman1712" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahman1712" height="30" width="40" />
-    </a>
-</p>
+- ⚡ Fun fact **I think I am Funny**
 
-<h1 align="center">Programming Languages and Tools:</h1>
+<!-- <p>&nbsp; &nbsp;</p>  -->
+<p>&nbsp; &nbsp;</p> 
 
-<p align="left" style="color:red;"  class="parag"> 
-hello `#f03c15`
+<h1 align="left">Programming Languages and Tools:</h1>
+
+<p align="center" style="color:red;"  class="parag"> 
     <p align="center"> 
         <a href="https://www.java.com" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -41,8 +36,7 @@ hello `#f03c15`
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a>
-    </p>
-    <p align="center"> 
+        &nbsp; &nbsp;
         <a href="https://spring.io/" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
         </a> 
@@ -71,8 +65,6 @@ hello `#f03c15`
         <a href="https://postman.com" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         </a> 
-    </p>
-    <p align="center"> 
         <a href="https://aws.amazon.com" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
         </a>
@@ -80,8 +72,7 @@ hello `#f03c15`
         <a href="https://heroku.com" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
         </a> 
-    </p>
-    <p align="center"> 
+        &nbsp; &nbsp;
         <a href="https://www.blender.org/" target="_blank"> 
             <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
         </a>
@@ -91,43 +82,35 @@ hello `#f03c15`
         </a> 
     </p>
 </p>
+<!--         <p>&nbsp; &nbsp;</p>  -->
+        <p>&nbsp; &nbsp;</p> 
 
-<h3 align="left">Backend Development:</h3>
+<h1 align="left">Connect with me:</h1>
+<p align="center">
+    <a href="https://linkedin.com/in/rahman1712" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahman1712" height="30" width="40" />
+    </a>
+</p>
+        <p>&nbsp; &nbsp;</p> 
+        <p>&nbsp; &nbsp;</p> 
 
-<h3 align="left">Frontend Development:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman1712&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahman1712" />
+</p>
+
+<!-- <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman1712&theme=radical" alt="rahman1712" />
+</p>
+
 <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=rahman1712&label=Profile%20views&color=0e75b6&style=flat" alt="rahman1712" /> 
 </p>
-<h3 align="left">Database:</h3>
+
 <p align="left"> 
-</p>
-<h3 align="left">Cloud:</h3>
-<p align="left"> 
-</p>
-<h3 align="left">Cloud:</h3>
-<p align="left"> 
-</p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=rahman1712&theme=radical" alt="rahman1712" />
+    </a> 
+</p> -->
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahman1712&show_icons=true&locale=en&layout=compact" alt="rahman1712" />
-</p>
-
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahman1712&show_icons=true&locale=en" alt="rahman1712" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman1712&" alt="rahman1712" />
-</p>
-
-</div>
-
-<style>
-    .divb{
-        background:red;
-    }
-    .parag{
-        color:green;
-    }
-</style>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,100:FFFFD9&height=100&section=footer" />
 
