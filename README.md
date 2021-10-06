@@ -24,7 +24,7 @@
 <h1 align="center">Programming Languages and Tools:</h1>
 
 <p align="left" style="color:red;"  class="parag"> 
-hello
+hello `#f03c15`
     <p align="center"> 
         <a href="https://www.java.com" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
