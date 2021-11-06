@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,100:FFFFD9&height=150&section=header&text=Hai%20Guys&fontSize=30&reversal=true&animation=blinking&fontColor=ffffff&fontAlign=90&fontAlignY=20" />
 
+<img src="logo/arlogo.svg" alt="arlogo"/>
+
 <h1 align="left">Hi 👋, I'm Abdul Rahman</h1>
 
 <h3 align="left"> A passionate full stack developer from India</h3>
