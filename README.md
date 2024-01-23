@@ -2,19 +2,33 @@
 
 <img src="logo/arlogo.svg" alt="arlogo"/>
 
-<h1 align="left">Hi 👋, I'm Abdul Rahman</h1>
+<h1 align="left">Hi there! 👋 I'm Abdul Rahman</h1>
 
-<h3 align="left"> A passionate full stack developer from India</h3>
+<h3 align="left">Passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **J2EE Projects**
+🔭 I’m currently working on building robust and scalable applications using **Java**, **Spring Boot**, and **J2EE Projects**, with a focus on designing efficient **Microservices** architectures.
 
-- 🌱 I’m currently learning **Node JS , MongoDB , Blender**
+🌱 In my journey, I have gained knowledge and expertise in technologies like **DevOps** and various **Databases**.
 
-- 💬 Ask me about **java , javaFX , Springboot**
+🚀 Additionally, I bring hands-on experience in the following technologies:
 
-- 📫 How to reach me **abdulrahmankm1712@gmail.com**
+- **Frontend:** JavaScript, Angular, React
+- **Web Technologies:** HTML, CSS, SCSS
 
-- ⚡ Fun fact **I think I am Funny**
+💬 Ask me about anything related to **Java**, **JavaFX**, **Spring Boot**, or any of the mentioned frontend technologies. I love discussing and sharing knowledge!
+
+📫 Let's connect! Reach me at **abdulrahmankm1712@gmail.com** for collaboration, questions, or just a friendly chat.
+
+---
+
+**🌟 My Tech Stack:**
+
+- **Languages:** Java, JavaScript
+- **Frameworks:** Spring Boot, JavaFX, Angular, React
+- **Microservices:** Designing scalable and efficient microservices architectures
+- **DevOps:** Docker, Jenkins, Kubernetes
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **UI/UX:** Blender, HTML, CSS, SCSS, Figma
 
 <!-- <p>&nbsp; &nbsp;</p>  -->
 <p>&nbsp; &nbsp;</p> 
